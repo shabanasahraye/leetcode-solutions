@@ -1,5 +1,5 @@
 # Leetcode Solutions
-Solutions to LeetCode problems with intuition, approach, time and space complexity.
+Solutions to LeetCode problems with detailed intuition, approach, and time & space complexity analysis.
 
 
 ## Array & Hashing
