@@ -289,6 +289,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [208. Implement Trie Prefix Tree](https://github.com/shabanamir/leetcode-solutions/blob/main/Trie/0208-implement-trie-prefix-tree.ipynb) <br>
 [211. Design Add and Search Words Data Structure](https://github.com/shabanamir/leetcode-solutions/blob/main/Trie/0211-design-add-and-search-words-data-structure.ipynb) <br>
 [212. Word Search II](https://github.com/shabanamir/leetcode-solutions/blob/main/Trie/0212-word-search-ii.ipynb) <br> 
+[2707. Extra Characters in a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Trie/2707-extra-characters-in-a-string.ipynb) <br> 
 
 
 ## Graph
