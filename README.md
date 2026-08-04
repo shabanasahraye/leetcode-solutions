@@ -350,6 +350,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [279. Perfect Squares](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0279-perfect-squares.ipynb) <br>
 [300. Longest Increasing Subsequence](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0300-longest-increasing-subsequence.ipynb) <br>
 [322. Coin Change](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0322-coin-change.ipynb) <br>
+[338. Counting Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0338-counting-bits.ipynb) <br>
 [343. Integer Break](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0343-integer-break.ipynb) <br>
 [377. Combination Sum IV](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0377-combination-sum-iv.ipynb) <br>
 [416. Partition Equal Subset Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0416-partition-equal-subset-sum.ipynb) <br>
@@ -423,7 +424,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [190. Reverse Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0190-reverse-bits.ipynb) <br>
 [191. Number of 1 Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0191-number-of-1-bits.ipynb) <br>
 [268. Missing Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0268-missing-number.ipynb) <br>
-[338. Counting Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0338-counting-bits.ipynb) <br>
 [371. Sum of Two Integers](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0371-sum-of-two-integers.ipynb) <br>
 [989. Add to Array Form of Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0989-add-to-array-form-of-integer.ipynb) <br>
 [1470. Shuffle the Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/1470-shuffle-the-array.ipynb) <br>
