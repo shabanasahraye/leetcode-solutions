@@ -105,6 +105,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [658. Sind K Closest Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0658-find-k-closest-elements.ipynb) <br>
 [904. Fruit into Baskets](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0904-fruit-into-baskets.ipynb) <br>
 [1343. Number of Sub Arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.ipynb) <br>
+[1423. Maximum Points You Can Obtain From Cards](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1423-maximum-points-you-can-obtain-from-cards.ipynb) <br>
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.ipynb) <br>
 [1838. Frequency of the Most Frequent Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1838-frequency-of-the-most-frequent-element.ipynb) <br>
 [1888. Minimum Number of Flips to Make the Binary String Alternating](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.ipynb) <br>
@@ -374,7 +375,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [918. Maximum Sum Circular Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0918-maximum-sum-circular-subarray.ipynb) <br>
 [978. Longest Turbulent Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0978-longest-turbulent-subarray.ipynb) <br>
 [1029. Two City Scheduling](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1029-two-city-scheduling.ipynb) <br>
-[1423. Maximum Points You Can Obtain From Cards](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1423-maximum-points-you-can-obtain-from-cards.ipynb) <br>
 [1871. Jump Game VII](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1871-jump-game-vii.ipynb) <br>
 [1899. Merge Triplets to Form Target Triplet](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1899-merge-triplets-to-form-target-triplet.ipynb) <br>
 [1921. Eliminate Maximum Number of Monsters](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1921-eliminate-maximum-number-of-monsters.ipynb) <br>
