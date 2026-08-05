@@ -360,6 +360,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [691. Stickers to Spell Word](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0691-stickers-to-spell-word.ipynb) <br>
 [740. Delete and Earn](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0740-delete-and-earn.ipynb) <br>
 [746. Min Cost Climbing Stairs](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0746-min-cost-climbing-stairs.ipynb) <br>
+[1871. Jump Game VII](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1871-jump-game-vii.ipynb) <br>
 
 
 ## Greedy
@@ -375,7 +376,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [918. Maximum Sum Circular Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0918-maximum-sum-circular-subarray.ipynb) <br>
 [978. Longest Turbulent Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0978-longest-turbulent-subarray.ipynb) <br>
 [1029. Two City Scheduling](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1029-two-city-scheduling.ipynb) <br>
-[1871. Jump Game VII](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1871-jump-game-vii.ipynb) <br>
 [1899. Merge Triplets to Form Target Triplet](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1899-merge-triplets-to-form-target-triplet.ipynb) <br>
 [1921. Eliminate Maximum Number of Monsters](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1921-eliminate-maximum-number-of-monsters.ipynb) <br>
 [2439. Minimize Maximum of Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/2439-minimize-maximum-of-array.ipynb) <br>
