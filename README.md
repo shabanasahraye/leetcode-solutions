@@ -325,7 +325,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1557-minimum-number-of-vertices-to-reach-all-nodes.ipynb) <br>
 [1857. Largest Color Value in a Directed Graph](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1857-largest-color-value-in-a-directed-graph.ipynb) <br>
 [1905. Count Sub Islands](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1905-count-sub-islands.ipynb) <br>
-[1958. Check If Move Is Legal](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1958-check-if-move-is-legal.ipynb) <br>
 [2101. Detonate the Maximum Bombs](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/2101-detonate-the-maximum-bombs.ipynb) <br>
 [2359. Find Closest Node to Given Two Nodes](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/2359-find-closest-node-to-given-two-nodes.ipynb) <br>
 [2477. Minimum Fuel Cost to Report to the Capital](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/2477-minimum-fuel-cost-to-report-to-the-capital.ipynb) <br>
@@ -413,6 +412,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1260. Shift 2D Grid](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1260-shift-2d-grid.ipynb) <br>
 [1523. Count Odd Numbers in an Interval Range](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1523-count-odd-numbers-in-an-interval-range.ipynb) <br>
 [1572. Matrix Diagonal Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1572-matrix-diagonal-sum.ipynb) <br>
+[1958. Check If Move Is Legal](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1958-check-if-move-is-legal.ipynb) <br>
 [2013. Detect Squares](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/2013-detect-squares.ipynb) <br>
 [2028. Find Missing Observations](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/2013-detect-squares.ipynb) <br>
 
