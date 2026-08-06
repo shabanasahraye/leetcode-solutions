@@ -365,6 +365,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 
 ## Greedy
 
+[12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0012-integer-to-roman.ipynb) <br>
 [45. Jump Game II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0045-jump-game-ii.ipynb) <br>
 [53. Maximum Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0053-maximum-subarray.ipynb) <br>
 [55. Jump Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0055-jump-game.ipynb) <br>
@@ -396,7 +397,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [6. Zigzag Conversion](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0006-zigzag-conversion.ipynb) <br>
 [7. Reverse Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20Geometry/0007-reverse-integer.ipynb) <br>
 [9. Palindrome Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0009-palindrome-number.ipynb) <br>
-[12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0012-integer-to-roman.ipynb) <br>
 [13. Roman to Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0013-roman-to-integer.ipynb) <br>
 [43. Multiply Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0043-multiply-strings.ipynb) <br>
 [48. Rotate Image](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0048-rotate-image.ipynb) <br>
