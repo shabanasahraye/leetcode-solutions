@@ -322,7 +322,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1443-minimum-time-to-collect-all-apples-in-a-tree.ipynb) <br>
 [1462. Course Schedule IV](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1462-course-schedule-iv.ipynb) <br>
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.ipynb) <br>
-[1553. Minimum Number of Days to Eat N Oranges](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1553-minimum-number-of-days-to-eat-n-oranges.ipynb) <br>
 [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1557-minimum-number-of-vertices-to-reach-all-nodes.ipynb) <br>
 [1857. Largest Color Value in a Directed Graph](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1857-largest-color-value-in-a-directed-graph.ipynb) <br>
 [1905. Count Sub Islands](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1905-count-sub-islands.ipynb) <br>
@@ -360,6 +359,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [691. Stickers to Spell Word](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0691-stickers-to-spell-word.ipynb) <br>
 [740. Delete and Earn](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0740-delete-and-earn.ipynb) <br>
 [746. Min Cost Climbing Stairs](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0746-min-cost-climbing-stairs.ipynb) <br>
+[1553. Minimum Number of Days to Eat N Oranges](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1553-minimum-number-of-days-to-eat-n-oranges.ipynb) <br>
 [1871. Jump Game VII](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1871-jump-game-vii.ipynb) <br>
 
 
