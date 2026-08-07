@@ -102,10 +102,9 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [239. Sliding Window Maximum](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0239-sliding-window-maximum.ipynb) <br>
 [424. Longest Repeating Character Replacement](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0424-longest-repeating-character-replacement.ipynb) <br>
 [567. Permutation in String](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0567-permutation-in-string.ipynb) <br>
-[658. Sind K Closest Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0658-find-k-closest-elements.ipynb) <br>
 [904. Fruit into Baskets](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0904-fruit-into-baskets.ipynb) <br>
 [1343. Number of Sub Arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.ipynb) <br>
-[1423. Maximum Points You Can Obtain From Cards](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1423-maximum-points-you-can-obtain-from-cards.ipynb) <br>
+[1423. Maximum Points You Can Obtain From Cards](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1423-maximum-points-you-can-obtain-from-cards.ipynb) <br>
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.ipynb) <br>
 [1838. Frequency of the Most Frequent Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1838-frequency-of-the-most-frequent-element.ipynb) <br>
 [1888. Minimum Number of Flips to Make the Binary String Alternating](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.ipynb) <br>
@@ -139,7 +138,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 
 [4. Median of Two Sorted Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0004-median-of-two-sorted-arrays.ipynb) <br>
 [33. Search in Rotated Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0033-search-in-rotated-sorted-array.ipynb) <br>
-[34. Find First and Last Position of Element in Sor](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0034-find-first-and-last-position-of-element-in-sor.ipynb) <br>
+[34. Find First and Last Position of Element in Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0034-find-first-and-last-position-of-element-in-sorted-array.ipynb) <br>
 [35. Search Insert Position](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0035-search-insert-position.ipynb) <br>
 [69. Sqrt(x)](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0069-sqrt-x.ipynb) <br>
 [74. Search a 2D Matrix](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0074-search-a-2d-matrix.ipynb) <br>
@@ -151,6 +150,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [410. Split Array Largest Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0410-split-array-largest-sum.ipynb) <br>
 [441. Arranging Coins](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0441-arranging-coins.ipynb) <br>
 [540. Single Element in a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0540-single-element-in-a-sorted-array.ipynb) <br>
+[658. Find K Closest Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0658-find-k-closest-elements.ipynb) <br>
 [704. Binary Search](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0704-binary-search.ipynb) <br>
 [875. Koko Eating Bananas](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0875-koko-eating-bananas.ipynb) <br>
 [981. Time Based Key Value Store](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0981-time-based-key-value-store.ipynb) <br>
@@ -349,7 +349,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [279. Perfect Squares](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0279-perfect-squares.ipynb) <br>
 [300. Longest Increasing Subsequence](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0300-longest-increasing-subsequence.ipynb) <br>
 [322. Coin Change](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0322-coin-change.ipynb) <br>
-[338. Counting Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0338-counting-bits.ipynb) <br>
+[338. Counting Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0338-counting-bits.ipynb) <br>
 [343. Integer Break](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0343-integer-break.ipynb) <br>
 [377. Combination Sum IV](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0377-combination-sum-iv.ipynb) <br>
 [416. Partition Equal Subset Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0416-partition-equal-subset-sum.ipynb) <br>
@@ -358,13 +358,13 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [691. Stickers to Spell Word](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0691-stickers-to-spell-word.ipynb) <br>
 [740. Delete and Earn](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0740-delete-and-earn.ipynb) <br>
 [746. Min Cost Climbing Stairs](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0746-min-cost-climbing-stairs.ipynb) <br>
-[1553. Minimum Number of Days to Eat N Oranges](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1553-minimum-number-of-days-to-eat-n-oranges.ipynb) <br>
-[1871. Jump Game VII](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1871-jump-game-vii.ipynb) <br>
+[1553. Minimum Number of Days to Eat N Oranges](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/1553-minimum-number-of-days-to-eat-n-oranges.ipynb) <br>
+[1871. Jump Game VII](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/1871-jump-game-vii.ipynb) <br>
 
 
 ## Greedy
 
-[12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0012-integer-to-roman.ipynb) <br>
+[12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0012-integer-to-roman.ipynb) <br>
 [45. Jump Game II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0045-jump-game-ii.ipynb) <br>
 [53. Maximum Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0053-maximum-subarray.ipynb) <br>
 [55. Jump Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0055-jump-game.ipynb) <br>
@@ -394,7 +394,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 ## Math & Geometry
 
 [6. Zigzag Conversion](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0006-zigzag-conversion.ipynb) <br>
-[7. Reverse Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20Geometry/0007-reverse-integer.ipynb) <br>
+[7. Reverse Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0007-reverse-integer.ipynb) <br>
 [9. Palindrome Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0009-palindrome-number.ipynb) <br>
 [13. Roman to Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0013-roman-to-integer.ipynb) <br>
 [43. Multiply Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0043-multiply-strings.ipynb) <br>
@@ -412,7 +412,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1260. Shift 2D Grid](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1260-shift-2d-grid.ipynb) <br>
 [1523. Count Odd Numbers in an Interval Range](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1523-count-odd-numbers-in-an-interval-range.ipynb) <br>
 [1572. Matrix Diagonal Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1572-matrix-diagonal-sum.ipynb) <br>
-[1958. Check If Move Is Legal](https://github.com/shabanamir/leetcode-solutions/blob/main/Graph/1958-check-if-move-is-legal.ipynb) <br>
+[1958. Check If Move Is Legal](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1958-check-if-move-is-legal.ipynb) <br>
 [2013. Detect Squares](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/2013-detect-squares.ipynb) <br>
 [2028. Find Missing Observations](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/2013-detect-squares.ipynb) <br>
 
