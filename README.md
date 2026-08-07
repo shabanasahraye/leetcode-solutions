@@ -336,7 +336,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [332. Reconstruct Itinerary](https://github.com/shabanamir/leetcode-solutions/blob/main/Advanced%20Graph/0332-reconstruct-itinerary.ipynb) <br>
 
 
-## 1D Dyniamic Programing
+## 1D Dynamic Programming
 
 [5. Longest Palindromic Substring](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0005-longest-palindromic-substring.ipynb) <br>
 [70. Climbing Stairs](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0070-climbing-stairs.ipynb) <br>
