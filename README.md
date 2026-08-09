@@ -340,7 +340,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [5. Longest Palindromic Substring](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0005-longest-palindromic-substring.ipynb) <br>
 [70. Climbing Stairs](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0070-climbing-stairs.ipynb) <br>
 [91. Decode Ways](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0091-decode-ways.ipynb) <br>
-[96. Unique Binary Search Trees](https://github.com/shabanamir/leetcode-solutions/blob/main/Tree/0096-unique-binary-search-trees.ipynb) <br>
+[96. Unique Binary Search Trees](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0096-unique-binary-search-trees.ipynb) <br>
 [120. Triangle](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0120-triangle.ipynb) <br>
 [139. Word Break](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0139-word-break.ipynb) <br>
 [152. Maximum Product Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0152-maximum-product-subarray.ipynb) <br>
