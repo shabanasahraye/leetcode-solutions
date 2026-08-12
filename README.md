@@ -78,7 +78,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [42. Trapping Rain Water](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0042-trapping-rain-water.ipynb) <br>
 [80. Remove Duplicates from Sorted Array II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0080-remove-duplicates-from-sorted-array-ii.ipynb) <br>
 [88. Merge Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0088-merge-sorted-array.ipynb) <br>
-[121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
 [125. Valid Palindrome](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0125-valid-palindrome.ipynb) <br>
 [167. Two Sum II - Input Array is Sorted](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0167-two-sum-ii-input-array-is-sorted.ipynb) <br>
 [189. Rotate Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0189-rotate-array.ipynb) <br>
@@ -368,6 +367,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [45. Jump Game II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0045-jump-game-ii.ipynb) <br>
 [53. Maximum Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0053-maximum-subarray.ipynb) <br>
 [55. Jump Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0055-jump-game.ipynb) <br>
+[121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
 [134. Gas Station](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0134-gas-station.ipynb) <br>
 [649. Dota2 Senate](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0649-dota2-senate.ipynb) <br>
 [678. Valid Parenthesis String](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0678-valid-parenthesis-string.ipynb) <br>
