@@ -88,7 +88,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [977. Squares of a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0977-squares-of-a-sorted-array.ipynb) <br>
 [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.ipynb) <br>
 [1768. Merge Strings Alternately](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1768-merge-strings-alternately.ipynb) <br>
-[1968. Array With Elements Not Equal to Average of Neighbors](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1968-array-with-elements-not-equal-to-average-of-neighbors.ipynb) <br>
 [1984. Minimum Difference Between Highest and Lowest of K Scores](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1984-minimum-difference-between-highest-and-lowest-of-k-scores.ipynb) <br>
 
 
@@ -378,6 +377,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1029. Two City Scheduling](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1029-two-city-scheduling.ipynb) <br>
 [1899. Merge Triplets to Form Target Triplet](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1899-merge-triplets-to-form-target-triplet.ipynb) <br>
 [1921. Eliminate Maximum Number of Monsters](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1921-eliminate-maximum-number-of-monsters.ipynb) <br>
+[1968. Array With Elements Not Equal to Average of Neighbors](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1968-array-with-elements-not-equal-to-average-of-neighbors.ipynb) <br>
 [2439. Minimize Maximum of Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/2439-minimize-maximum-of-array.ipynb) <br>
 
 
