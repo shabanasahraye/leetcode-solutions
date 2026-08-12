@@ -88,7 +88,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [977. Squares of a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0977-squares-of-a-sorted-array.ipynb) <br>
 [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.ipynb) <br>
 [1768. Merge Strings Alternately](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1768-merge-strings-alternately.ipynb) <br>
-[1984. Minimum Difference Between Highest and Lowest of K Scores](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1984-minimum-difference-between-highest-and-lowest-of-k-scores.ipynb) <br>
 
 
 ## Sliding Window
@@ -106,6 +105,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.ipynb) <br>
 [1838. Frequency of the Most Frequent Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1838-frequency-of-the-most-frequent-element.ipynb) <br>
 [1888. Minimum Number of Flips to Make the Binary String Alternating](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.ipynb) <br>
+[1984. Minimum Difference Between Highest and Lowest of K Scores](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1984-minimum-difference-between-highest-and-lowest-of-k-scores.ipynb) <br>
 
 
 ## Stack
