@@ -78,6 +78,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [42. Trapping Rain Water](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0042-trapping-rain-water.ipynb) <br>
 [80. Remove Duplicates from Sorted Array II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0080-remove-duplicates-from-sorted-array-ii.ipynb) <br>
 [88. Merge Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0088-merge-sorted-array.ipynb) <br>
+[121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
 [125. Valid Palindrome](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0125-valid-palindrome.ipynb) <br>
 [167. Two Sum II - Input Array is Sorted](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0167-two-sum-ii-input-array-is-sorted.ipynb) <br>
 [189. Rotate Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0189-rotate-array.ipynb) <br>
@@ -96,7 +97,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 
 [3. Longest Substring Without Repeating Characters](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0003-longest-substring-without-repeating-characters.ipynb) <br> 
 [76. Minimum Window Substring](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0076-minimum-window-substring.ipynb) <br>
-[121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
 [209. Minimum Size Subarray Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0209-minimum-size-subarray-sum.ipynb) <br>
 [219. Contains Duplicate II](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0219-contains-duplicate-ii.ipynb) <br>
 [239. Sliding Window Maximum](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0239-sliding-window-maximum.ipynb) <br>
