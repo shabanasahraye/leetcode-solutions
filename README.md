@@ -28,7 +28,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [347. Top K Frequent Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0347-top-k-frequent-elements.ipynb) <br>
 [349. Intersection of Two Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0349-intersection-of-two-arrays.ipynb) <br>
 [380. Insert Delete GetRandom O(1)](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0380-insert-delete-getrandom-o-1.ipynb) <br>
-[392. Is Subsequence](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0392-is-subsequence.ipynb) <br>
 [438. Find All Anagrams in a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0438-find-all-anagrams-in-a-string.ipynb) <br>
 [442. Find All Duplicates in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0442-find-all-duplicates-in-an-array.ipynb) <br>
 [448. Find All Numbers Disappeared in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0448-find-all-numbers-disappeared-in-an-array.ipynb) <br>
@@ -82,6 +81,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [189. Rotate Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0189-rotate-array.ipynb) <br>
 [283. Move Zeroes](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0283-move-zeroes.ipynb) <br>
 [344. Reverse String](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0344-reverse-string.ipynb) <br>
+[392. Is Subsequence](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0392-is-subsequence.ipynb) <br>
 [680. Valid Palindrome II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0680-valid-palindrome-ii.ipynb) <br>
 [881. Boats to Save People](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0881-boats-to-save-people.ipynb) <br>
 [977. Squares of a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0977-squares-of-a-sorted-array.ipynb) <br>
