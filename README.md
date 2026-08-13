@@ -28,7 +28,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [347. Top K Frequent Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0347-top-k-frequent-elements.ipynb) <br>
 [349. Intersection of Two Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0349-intersection-of-two-arrays.ipynb) <br>
 [380. Insert Delete GetRandom O(1)](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0380-insert-delete-getrandom-o-1.ipynb) <br>
-[438. Find All Anagrams in a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0438-find-all-anagrams-in-a-string.ipynb) <br>
 [442. Find All Duplicates in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0442-find-all-duplicates-in-an-array.ipynb) <br>
 [448. Find All Numbers Disappeared in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0448-find-all-numbers-disappeared-in-an-array.ipynb) <br>
 [496. Next Greater Element I](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0496-next-greater-element-i.ipynb) <br>
@@ -97,6 +96,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [219. Contains Duplicate II](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0219-contains-duplicate-ii.ipynb) <br>
 [239. Sliding Window Maximum](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0239-sliding-window-maximum.ipynb) <br>
 [424. Longest Repeating Character Replacement](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0424-longest-repeating-character-replacement.ipynb) <br>
+[438. Find All Anagrams in a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0438-find-all-anagrams-in-a-string.ipynb) <br>
 [567. Permutation in String](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0567-permutation-in-string.ipynb) <br>
 [904. Fruit into Baskets](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0904-fruit-into-baskets.ipynb) <br>
 [1343. Number of Sub Arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.ipynb) <br>
