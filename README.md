@@ -30,7 +30,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [380. Insert Delete GetRandom O(1)](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0380-insert-delete-getrandom-o-1.ipynb) <br>
 [442. Find All Duplicates in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0442-find-all-duplicates-in-an-array.ipynb) <br>
 [448. Find All Numbers Disappeared in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0448-find-all-numbers-disappeared-in-an-array.ipynb) <br>
-[496. Next Greater Element I](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0496-next-greater-element-i.ipynb) <br>
 [523. Continuous Subarray Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0523-continuous-subarray-sum.ipynb) <br>
 [525. Contiguous Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0525-contiguous-array.ipynb) <br>
 [535. Encode and Decode TinyURL](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0535-encode-and-decode-tinyurl.ipynb) <br>
@@ -120,6 +119,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [394. Decode String](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0394-decode-string.ipynb) <br>
 [402. Remove K Digits](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0402-remove-k-digits.ipynb) <br>
 [456. 132 Pattern](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0456-132-pattern.ipynb) <br>
+[496. Next Greater Element I](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0496-next-greater-element-i.ipynb) <br>
 [682. Baseball Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0682-baseball-game.ipynb) <br>
 [735. Asteroid Collision](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0735-asteroid-collision.ipynb) <br>
 [739. Daily Temperatures](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0739-daily-temperatures.ipynb) <br>
