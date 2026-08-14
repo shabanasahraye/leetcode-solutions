@@ -56,7 +56,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1822. Sign of the Product of an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1822-sign-of-the-product-of-an-array.ipynb) <br>
 [1929. Concatenation of Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1929-concatenation-of-array.ipynb) <br>
 [1930. Unique Length 3 Palindromic Subsequences](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1930-unique-length-3-palindromic-subsequences.ipynb) <br>
-[1963. Minimum Number of Swaps to Make the String Balanced](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1963-minimum-number-of-swaps-to-make-the-string-balanced.ipynb) <br>
 [2001. Number of Pairs of Interchangeable Rectangles](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2001-number-of-pairs-of-interchangeable-rectangles.ipynb) <br>
 [2215. Find the Difference of Two Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2215-find-the-difference-of-two-arrays.ipynb) <br>
 [2306. Naming a Company](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2306-naming-a-company.ipynb) <br>
@@ -367,7 +366,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
 [122. Best Time to Buy and Sell Stock II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0122-best-time-to-buy-and-sell-stock-ii.ipynb) <br>
 [134. Gas Station](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0134-gas-station.ipynb) <br>
-[2017. Grid Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/2017-grid-game.ipynb) <br>
 [649. Dota2 Senate](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0649-dota2-senate.ipynb) <br>
 [678. Valid Parenthesis String](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0678-valid-parenthesis-string.ipynb) <br>
 [763. Partition Labels](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0763-partition-labels.ipynb) <br>
@@ -377,7 +375,9 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1029. Two City Scheduling](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1029-two-city-scheduling.ipynb) <br>
 [1899. Merge Triplets to Form Target Triplet](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1899-merge-triplets-to-form-target-triplet.ipynb) <br>
 [1921. Eliminate Maximum Number of Monsters](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1921-eliminate-maximum-number-of-monsters.ipynb) <br>
+[1963. Minimum Number of Swaps to Make the String Balanced](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1963-minimum-number-of-swaps-to-make-the-string-balanced.ipynb) <br>
 [1968. Array With Elements Not Equal to Average of Neighbors](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1968-array-with-elements-not-equal-to-average-of-neighbors.ipynb) <br>
+[2017. Grid Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/2017-grid-game.ipynb) <br>
 [2439. Minimize Maximum of Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/2439-minimize-maximum-of-array.ipynb) <br>
 
 
