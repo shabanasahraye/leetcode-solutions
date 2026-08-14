@@ -58,7 +58,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1930. Unique Length 3 Palindromic Subsequences](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1930-unique-length-3-palindromic-subsequences.ipynb) <br>
 [1963. Minimum Number of Swaps to Make the String Balanced](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1963-minimum-number-of-swaps-to-make-the-string-balanced.ipynb) <br>
 [2001. Number of Pairs of Interchangeable Rectangles](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2001-number-of-pairs-of-interchangeable-rectangles.ipynb) <br>
-[2017. Grid Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2017-grid-game.ipynb) <br>
 [2215. Find the Difference of Two Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2215-find-the-difference-of-two-arrays.ipynb) <br>
 [2306. Naming a Company](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2306-naming-a-company.ipynb) <br>
 [2348. Number of Zero Filled Subarrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/2348-number-of-zero-filled-subarrays.ipynb) <br>
@@ -368,6 +367,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
 [122. Best Time to Buy and Sell Stock II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0122-best-time-to-buy-and-sell-stock-ii.ipynb) <br>
 [134. Gas Station](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0134-gas-station.ipynb) <br>
+[2017. Grid Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/2017-grid-game.ipynb) <br>
 [649. Dota2 Senate](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0649-dota2-senate.ipynb) <br>
 [678. Valid Parenthesis String](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0678-valid-parenthesis-string.ipynb) <br>
 [763. Partition Labels](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0763-partition-labels.ipynb) <br>
