@@ -6,13 +6,11 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 
 [1. Two Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0001-two-sum.ipynb) <br> 
 [14. Longest Common Prefix](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0014-longest-common-prefix.ipynb) <br>
-[27. Remove Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0027-remove-element.ipynb) <br>
 [28. Find the Index of the First Occurrence in a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0028-find-the-index-of-the-first-occurrence-in-a-string.ipynb) <br>
 [36. Valid Sudoku](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0036-valid-sudoku.ipynb) <br>
 [41. First Missing Positive](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0041-first-missing-positive.ipynb) <br>
 [49. Group Anagrams](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0049-group-anagrams.ipynb) <br>
 [58. Length of Last Word](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0058-length-of-last-word.ipynb) <br>
-[75. Sort Colors](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0075-sort-colors.ipynb) <br>
 [118. Pascal's Triangle](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0118-pascal-s-triangle.ipynb) <br>
 [128. Longest Consecutive Sequence](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0128-longest-consecutive-sequence.ipynb) <br>
 [169. Majority Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0169-majority-element.ipynb) <br>
@@ -42,7 +40,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [705. Design HashSet](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0705-design-hashset.ipynb) <br>
 [706. Design HashMap](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0706-design-hashmap.ipynb) <br>
 [724. Find Pivot Index](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0724-find-pivot-index.ipynb) <br>
-[838. Push Dominoes](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0838-push-dominoes.ipynb) <br>
 [896. Monotonic Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0896-monotonic-array.ipynb) <br>
 [912. Sort an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0912-sort-an-array.ipynb) <br>
 [929. Unique Email Addresses](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0929-unique-email-addresses.ipynb) <br>
@@ -69,7 +66,9 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [15. 3Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0015-3sum.ipynb) <br>
 [18. 4Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0018-4sum.ipynb) <br>
 [26. Remove Duplicates from Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0026-remove-duplicates-from-sorted-array.ipynb) <br>
+[27. Remove Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0027-remove-element.ipynb) <br>
 [42. Trapping Rain Water](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0042-trapping-rain-water.ipynb) <br>
+[75. Sort Colors](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0075-sort-colors.ipynb) <br>
 [80. Remove Duplicates from Sorted Array II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0080-remove-duplicates-from-sorted-array-ii.ipynb) <br>
 [88. Merge Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0088-merge-sorted-array.ipynb) <br>
 [125. Valid Palindrome](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0125-valid-palindrome.ipynb) <br>
@@ -79,6 +78,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [344. Reverse String](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0344-reverse-string.ipynb) <br>
 [392. Is Subsequence](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0392-is-subsequence.ipynb) <br>
 [680. Valid Palindrome II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0680-valid-palindrome-ii.ipynb) <br>
+[838. Push Dominoes](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0838-push-dominoes.ipynb) <br>
 [881. Boats to Save People](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0881-boats-to-save-people.ipynb) <br>
 [977. Squares of a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0977-squares-of-a-sorted-array.ipynb) <br>
 [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.ipynb) <br>
