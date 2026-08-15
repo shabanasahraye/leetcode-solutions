@@ -406,6 +406,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [149. Max Points on a Line](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0149-max-points-on-a-line.ipynb) <br>
 [202. Happy Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0202-happy-number.ipynb) <br>
 [263. Ugly Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0263-ugly-number.ipynb) <br>
+[989. Add to Array Form of Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0989-add-to-array-form-of-integer.ipynb) <br>
 [1041. Robot Bounded in Circle](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1041-robot-bounded-in-circle.ipynb) <br>
 [1071. Greatest Common Divisor of Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1071-greatest-common-divisor-of-strings.ipynb) <br>
 [1260. Shift 2D Grid](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1260-shift-2d-grid.ipynb) <br>
@@ -425,5 +426,4 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [191. Number of 1 Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0191-number-of-1-bits.ipynb) <br>
 [268. Missing Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0268-missing-number.ipynb) <br>
 [371. Sum of Two Integers](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0371-sum-of-two-integers.ipynb) <br>
-[989. Add to Array Form of Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0989-add-to-array-form-of-integer.ipynb) <br>
 [1470. Shuffle the Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/1470-shuffle-the-array.ipynb) <br>
