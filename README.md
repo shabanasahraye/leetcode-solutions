@@ -23,7 +23,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [290. Word Pattern](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0290-word-pattern.ipynb) <br>
 [303. Range Sum Query Immutable](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0303-range-sum-query-immutable.ipynb) <br>
 [304. Range Sum Query 2D Immutable](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0304-range-sum-query-2d-immutable.ipynb) <br>
-[347. Top K Frequent Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0347-top-k-frequent-elements.ipynb) <br>
 [349. Intersection of Two Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0349-intersection-of-two-arrays.ipynb) <br>
 [380. Insert Delete GetRandom O(1)](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0380-insert-delete-getrandom-o-1.ipynb) <br>
 [442. Find All Duplicates in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0442-find-all-duplicates-in-an-array.ipynb) <br>
@@ -239,6 +238,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 
 [215. Kth Largest Element in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0215-kth-largest-element-in-an-array.ipynb) <br>
 [295. Find Median from Data Stream](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0295-find-median-from-data-stream.ipynb) <br>
+[347. Top K Frequent Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0347-top-k-frequent-elements.ipynb) <br>
 [355. Design Twitter](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0355-design-twitter.ipynb) <br>
 [502. IPO](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0502-ipo.ipynb) <br>
 [621. Task Scheduler](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0621-task-scheduler.ipynb) <br>
