@@ -47,7 +47,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1396. Design Underground System](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1396-design-underground-system.ipynb) <br>
 [1436. Destination City](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1436-destination-city.ipynb) <br>
 [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1461-check-if-a-string-contains-all-binary-codes-of-size-k.ipynb) <br>
-[1496. Path Crossing](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1496-path-crossing.ipynb) <br>
 [1603. Design Parking System](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1603-design-parking-system.ipynb) <br>
 [1822. Sign of the Product of an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1822-sign-of-the-product-of-an-array.ipynb) <br>
 [1929. Concatenation of Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1929-concatenation-of-array.ipynb) <br>
@@ -410,6 +409,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 [1041. Robot Bounded in Circle](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1041-robot-bounded-in-circle.ipynb) <br>
 [1071. Greatest Common Divisor of Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1071-greatest-common-divisor-of-strings.ipynb) <br>
 [1260. Shift 2D Grid](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1260-shift-2d-grid.ipynb) <br>
+[1496. Path Crossing](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1496-path-crossing.ipynb) <br>
 [1523. Count Odd Numbers in an Interval Range](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1523-count-odd-numbers-in-an-interval-range.ipynb) <br>
 [1572. Matrix Diagonal Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1572-matrix-diagonal-sum.ipynb) <br>
 [1958. Check If Move Is Legal](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1958-check-if-move-is-legal.ipynb) <br>
