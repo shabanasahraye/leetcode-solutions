@@ -328,6 +328,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 ## 1D Dynamic Programming
 
 [5. Longest Palindromic Substring](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0005-longest-palindromic-substring.ipynb) <br>
+[53. Maximum Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0053-maximum-subarray.ipynb) <br>
 [70. Climbing Stairs](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0070-climbing-stairs.ipynb) <br>
 [91. Decode Ways](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0091-decode-ways.ipynb) <br>
 [96. Unique Binary Search Trees](https://github.com/shabanamir/leetcode-solutions/blob/main/1D%20Dynamic%20Programming/0096-unique-binary-search-trees.ipynb) <br>
@@ -358,7 +359,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 
 [12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0012-integer-to-roman.ipynb) <br>
 [45. Jump Game II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0045-jump-game-ii.ipynb) <br>
-[53. Maximum Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0053-maximum-subarray.ipynb) <br>
 [55. Jump Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0055-jump-game.ipynb) <br>
 [121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
 [122. Best Time to Buy and Sell Stock II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0122-best-time-to-buy-and-sell-stock-ii.ipynb) <br>
