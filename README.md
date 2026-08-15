@@ -101,7 +101,6 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 ## Stack
 
 [20. Valid Parentheses](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0020-valid-parentheses.ipynb) <br>
-[22. Generate Parentheses](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0022-generate-parentheses.ipynb) <br>
 [71. Simplify Path](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0071-simplify-path.ipynb) <br>
 [84. Largest Rectangle in Histogram](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0084-largest-rectangle-in-histogram.ipynb) <br>
 [150. Evaluate Reverse Polish Notation](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0150-evaluate-reverse-polish-notation.ipynb) <br>
@@ -255,6 +254,7 @@ Solutions to LeetCode problems with detailed intuition, approach, and time & spa
 ## Backtracking
 
 [17. Letter Combinations of a Phone Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0017-letter-combinations-of-a-phone-number.ipynb) <br>
+[22. Generate Parentheses](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0022-generate-parentheses.ipynb) <br>
 [39. Combination Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0039-combination-sum.ipynb) <br>
 [40. Combination Sum II](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0040-combination-sum-ii.ipynb) <br>
 [46. Permutations](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0046-permutations.ipynb) <br>
